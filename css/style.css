@@ -25,3 +25,17 @@ body{
     width: 70%;
     margin: 0 auto;
 }
+
+/* styling the header section */
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-left{
+    border: 1px solid black;
+}
+.header-right{
+    border: 1px solid black;
+    width: 500px;
+}
